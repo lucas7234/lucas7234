@@ -2,8 +2,6 @@
 - 👀 I’m interested in Web Programming(HTML, CSS, JS, Node.js), Web Application Development, Mozilla, wmfska
 - 🌱 I’m currently learning Web Application Development
 
--I dont like choikevin
-
 
 
 <!---
