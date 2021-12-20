@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @lucas7234
-- 👀 I’m interested in Web Programming(HTML, CSS, JS, Node.js), Web Application Development, Mozilla, wmfska
-- 🌱 I’m currently learning Web Application Development(+Python)
+# @lucas7234
+## Languages
+* HTML
+* CSS
+* JavaScript
+* Python
+* C
+* etc.
 
+## Programs
+Trying to develop data analyzing program, disk operating system, and web application.
+
+## Support
+- lucas7234119@hotmail.com
+- https://github.io/lucas7234/lucas7234
 
 
 <!---
